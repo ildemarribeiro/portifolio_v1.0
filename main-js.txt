@@ -1,0 +1,7 @@
+function verProjeto() {
+    alert("Projeto em desenvolvimento 🚀");
+}
+
+// Mensagem inicial
+var nome = "Ildemar";
+console.log("Portfólio carregado com sucesso, " + nome);

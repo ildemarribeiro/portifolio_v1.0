@@ -1,0 +1,39 @@
+body {
+    background-color: #f5f5f5;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+p {
+    line-height: 1.6; /* Aumenta o espaçamento entre linhas */
+    color: #555;      /* Um cinza escuro é menos cansativo que o preto puro */
+}
+
+/* Efeito de elevação nos cards de projeto */
+.transition-hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.transition-hover:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+/* Estilização dos links de contato */
+.list-group-item-action:hover {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    color: #007bff !important;
+}
+
+/* Ajuste de tipografia */
+h2 {
+    font-weight: 700;
+    position: relative;
+    padding-bottom: 10px;
+}
