@@ -48,7 +48,7 @@ Pronto para integração com sistemas, APIs ou backend
 │── /js (opcional)
 
 ⚙️ Como Executar
-git clone https://github.com/ildemarribeiro/ortifolio_v1.0.git
+git clone https://github.com/ildemarribeiro/ortifolio_v1.0
 Abra o arquivo index.html no navegador.
 
 🧠 Diferenciais Estratégicos
